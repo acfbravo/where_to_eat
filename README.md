@@ -1,4 +1,4 @@
-# demo_flutter
+# where_to_eat
 
 A simple app that suggests where to eats
 
